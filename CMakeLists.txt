@@ -30,7 +30,6 @@ if (WIN32)
 	add_subdirectory(ingame-screenshot)
 endif()
 
-add_subdirectory(run-info)
 
 # TODO: macos still sucks
 if (NOT APPLE)

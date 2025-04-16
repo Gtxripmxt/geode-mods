@@ -36,5 +36,4 @@ if (NOT APPLE)
 
 add_subdirectory(circle-tool)
 add_subdirectory(reference-image)
-add_subdirectory(ingame-screenshot)
 endif()

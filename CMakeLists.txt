@@ -34,5 +34,5 @@ endif()
 # TODO: macos still sucks
 if (NOT APPLE)
 
-add_subdirectory(circle-tool)
+add_subdirectory(ingame-screenshot)
 endif()
